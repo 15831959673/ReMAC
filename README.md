@@ -1,12 +1,12 @@
-# Demystify Genome Code: Genetic Feedback Diffusion Model for High-Activity Enhancer Generation
+# Rethinking the Quality of High-Activity Enhancer Generation: A Multi-Agent Collaborative Framework under Long Tail Constraints
 
 ## 1. Environment setup
 
 1.1 Install torch
 
 ```
-conda create -n GAF-Ehancer python=3.9
-conda activate GAF-Ehancer
+conda create -n ReMAC python=3.9
+conda activate ReMAC
 pip install conda install pytorch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 ```
 
